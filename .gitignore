@@ -1,0 +1,15 @@
+src/dbg*
+src/gb4_asan
+src/t
+src/t.c
+src/calib
+src/const
+src/dump
+src/gb2_test
+src/gb4
+src/goldbach2
+src/goldbach3
+src/hl_test
+src/hl_ntt
+data/
+*.o

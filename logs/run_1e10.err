@@ -1,0 +1,2 @@
+[init] primes<=2000: 302 | base primes<=sqrt(10000000000): 9591 | 0.00s
+[done] 4999999999 evens verified in 121.54s (41139456/s)
