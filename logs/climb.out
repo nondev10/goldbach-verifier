@@ -7,3 +7,11 @@ nohup: failed to run command './climb.sh': Permission denied
 [climb] === 1e12 : 100000000002 .. 1000000000000  start 2026-11-23T13:48:56+08:00 ===
 [climb] 1e12 VERIFIED in 3057s  {"range":[100000000002,1000000000000],"evens":450000000000,"resolved":449999994418,"unresolved":0,"fallbacks":5582,"mr_sampled":214580,"mr_ok":214580,"min_p":3,"max_p":3457,"checksum":7273212742247657286,"seconds":3057.70,"evens_per_sec":147169595,"PMAX":2000}
 [climb] === 1e13 : 1000000000002 .. 10000000000000  start 2026-11-23T14:39:53+08:00 ===
+[climb] start 2026-11-23T22:30:07+08:00 bin=./src/gb4 threads=2 pmax=2000 from=1e11
+[climb] 1e11 already verified, skipping
+[climb] 1e12 already verified, skipping
+[climb] === 1e13 : 1000000000002 .. 10000000000000  start 2026-11-23T22:30:07+08:00 ===
+[climb] start 2026-11-24T05:39:57+08:00 bin=./src/gb4 threads=2 pmax=2000 from=1e11
+[climb] 1e11 already verified, skipping
+[climb] 1e12 already verified, skipping
+[climb] === 1e13 : 1000000000002 .. 10000000000000  start 2026-11-24T05:39:57+08:00 ===
